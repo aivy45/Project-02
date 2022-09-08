@@ -6,6 +6,6 @@ Time to finish : 1 hour
 
 [website link](https://second-project-ineuron.netlify.app/)
 
-
+![image](assets/project-2.png)
 
 ![](https://img.shields.io/badge/learn--code-self--taught-orange)
